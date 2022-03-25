@@ -1,4 +1,10 @@
 ---
 label: yunus emre
 hide_body: true
-fields: []
+fields:
+- name: yunus_emre_akgil
+  type: text
+  config:
+    required: false
+  label: yunus emre akgul
+  description: yeni geldik
